@@ -56,11 +56,3 @@ Save Configuration
 
 ---
 
-## Repository Structure
-
-```text
-docs/
-images/
-examples/
-README.md
-LICENSE
