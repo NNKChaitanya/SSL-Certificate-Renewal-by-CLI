@@ -1,6 +1,3 @@
-# SSL-Certificate-Renewal-by-CLI
-Cisco ASA SSL Certificate Renewal Guide with CSR Generation, Certificate Import, Verification and Rollback.
-
 # Cisco ASA SSL Certificate Renewal
 
 > Complete guide for generating a CSR, importing an SSL certificate, verifying the installation, assigning the SSL trustpoint, and performing rollback on Cisco ASA Firewalls.
