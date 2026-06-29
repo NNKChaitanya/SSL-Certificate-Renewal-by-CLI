@@ -20,22 +20,39 @@
 ## Workflow
 
 Generate RSA Key
+
 ↓
+
 Create Trustpoint
+
 ↓
+
 Generate CSR
+
 ↓
+
 Submit CSR to CA
+
 ↓
+
 Receive Signed Certificate
+
 ↓
+
 Import Certificate
+
 ↓
+
 Verify Certificate
+
 ↓
+
 Assign SSL Trustpoint
+
 ↓
+
 Save Configuration
+
 
 ---
 
